@@ -1,2 +1,3 @@
-# exercism
-Learning typescript in exercism
+# Exercism
+Learning typescript at [exercism.org](https://exercism.org).
+
